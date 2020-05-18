@@ -12,8 +12,7 @@
 
 | Behavior Our program should handle             | Input Example When it Receives | Output Example When it Receives     |
 |------------------------------------------------|--------------------------------|-------------------------------------|
-| User enters invalid name and email in the form | email: without @: w         | name and email invalid              |
-| User enters valid mail and email in the form   | email: vir@gmail.com name: vir | name and email valid                |
+| User enters valid mail to enter                | email: vir@gmail.com name: vir | name and email valid                |
 | User enters text in the message text area      | welcome form submitted         | Thank you for reaching out to us.   |
 
 ## Link to view Application
