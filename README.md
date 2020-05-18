@@ -1,24 +1,31 @@
-# Virginiah Portfolio
+# DELANI STUDIO
 
-## Project Description 
-- This is a personal portfolio for displaying my coding skills so far.
+## Author
 
-## Contibutors
-- Virginiah Wamuyu
+-Virginiah Wamuyu
 
-## Project Set Up Instructions 
-- To use this projects follow the steps below
-- git  clone into your working folder
-- click on the index.html file to view the web page
+## Description
 
-## Live link
-- https://virginiah2020.github.io/portfolio/
+-Delani website.is a site that helps one to know what we have done so far.checkout on portfolio section and see what we have done.also you can fill in the credential in below contact us section.
 
-## Copyrights & License
+## BDD
+
+| Behavior Our program should handle             | Input Example When it Receives | Output Example When it Receives     |
+|------------------------------------------------|--------------------------------|-------------------------------------|
+| User enters invalid name and email in the form | email: without @: w         | name and email invalid              |
+| User enters valid mail and email in the form   | email: vir@gmail.com name: vir | name and email valid                |
+| User enters text in the message text area      | welcome form submitted         | Thank you for reaching out to us.   |
+
+## Link to view Application
+https://virginiah2020.github.io/Delani/
+
+##Technologies used
+-html
+-css
+-javascript
+-Jquery
+-Bootstrap
 
 ## License
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+_- **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2020 © <a href="#" target="_blank">Virginiah Wamuyu</a>.
