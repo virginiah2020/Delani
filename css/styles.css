@@ -160,3 +160,20 @@
     letter-spacing: 5px;
 
 }
+
+.contact_us{
+    background-image: url("../images/assets/backgrounds/c_image.jpg");
+    height: 450px;
+    text-align: center;
+    color: white;
+}
+form{
+    background: rgba(0, 0, 0, 0);
+}
+.txtb{
+    background: rgba(0, 0, 0, 0);
+}
+.contact_us .txtb label, input, textarea{
+    display: inline-block;
+
+}
