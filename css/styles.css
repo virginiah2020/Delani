@@ -158,22 +158,42 @@
     border-bottom-right-radius: 15px;
     border-top-right-radius: 15px;
     letter-spacing: 5px;
-
 }
-
-.contact_us{
-    background-image: url("../images/assets/backgrounds/c_image.jpg");
-    height: 450px;
+.form-cont input {
+    width: 49%;
+    background: transparent;
+}
+.form-cont textarea {
+    margin-top: 10px;
+    width: 100%;
+    background: transparent;
+}
+#contact {
+    padding-top: 100px;
+    margin-bottom: 50px;
+    background-image: url('../images/backgrounds/c_image.jpg');
+    background-size: cover;
+    background-position: cover;
+    width: 100%;
+    max-width: 100%;
+    margin-top: 10%;
+}
+.footer {
+    margin-top: 30px;
+}
+.form-cont {
     text-align: center;
-    color: white;
+    position: relative;
+    width: 700px;
+    max-width: 100%;
+    left: 50%;
+    transform: translate(-50%);
 }
-form{
-    background: rgba(0, 0, 0, 0);
+::placeholder,
+.con {
+    color: #fff;
 }
-.txtb{
-    background: rgba(0, 0, 0, 0);
+::placeholder{
+    font-size: 10px;
 }
-.contact_us .txtb label, input, textarea{
-    display: inline-block;
 
-}
